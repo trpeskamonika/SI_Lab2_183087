@@ -8,7 +8,7 @@
 
 ###  Control Flow Graph
 
-![](images/183087.png)
+or ![](images/183087.png)
 
 ### Цикломатска комплексност
 
